@@ -1,0 +1,36 @@
+.banner {
+  background-position: center;
+  background-size: cover;
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255, 174, 0);
+  margin: 0 auto;
+}
+
+.banner h1 {
+  font-size: 80px;
+  font-weight: light;
+  color: rgb(255, 145, 0);
+  text-shadow:
+      0 0 7px rgb(255, 145, 0),
+      0 0 10px rgb(255, 145, 0),
+      0 0 21px rgb(255, 145, 0),
+      0 0 42px rgb(255, 153, 0),
+      0 0 82px rgb(255, 68, 0),
+      0 0 92px rgb(255, 68, 0),
+      0 0 98px rgb(255, 68, 0),
+      0 0 100px rgb(255, 68, 0);
+  margin: 0;
+}
+
+.banner h2 {
+  opacity: 0.8;
+  margin: 0;
+}
+
+.banner p {
+  opacity: 0.8;
+  margin-bottom: 30px;
+}

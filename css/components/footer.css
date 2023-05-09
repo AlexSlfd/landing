@@ -1,0 +1,14 @@
+.footer {
+  text-align: center;
+  margin: 100px auto;
+}
+
+.footer a {
+  color: rgb(255, 145, 0);
+  font-size: 40px;
+  opacity: 0.8;
+}
+
+.footer a:hover {
+  color: black;
+}
